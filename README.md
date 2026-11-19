@@ -27,9 +27,13 @@ Tengo experiencia en backend con C#/.NET en un entorno profesional, frontend con
 
 Plataforma web para la gestión inteligente de gastos compartidos con lectura automática de tickets mediante IA. Proyecto Final de Ciclo de DAW, desarrollado junto a [Álvaro López](https://github.com/alvaaroms).
 
-### 🛍️ [ORVO](https://github.com/PabloUbieto/orvo) · *En desarrollo*
+### 🛍️ [NODEX](https://github.com/PabloUbieto/nodex) · *En desarrollo*
 
-Tienda online ficticia de accesorios tecnológicos premium para espacios de trabajo, con identidad de marca propia y diseño minimalista. Trabajo de Diseño de Interfaces Web de DAW, realizado en pareja con [Álvaro López](https://github.com/alvaaroms).
+Tienda online ficticia de accesorios tecnológicos premium para espacios de trabajo, con identidad de marca propia y diseño minimalista. Desarrollada junto a [Álvaro López](https://github.com/alvaaroms).
+
+### 🧩 [claude-code-skills](https://github.com/PabloUbieto/claude-code-skills)
+
+Colección de skills para Claude Code, organizadas en `third-party/` (de terceros) y `custom/` (propias).
 
 ## 🏢 Organizaciones
 
