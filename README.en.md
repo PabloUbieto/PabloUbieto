@@ -27,9 +27,13 @@ I have professional experience in backend development with C#/.NET, frontend dev
 
 Web platform for smart shared-expense management with automatic receipt scanning using AI. Final Year Project of the DAW programme, built together with [Álvaro López](https://github.com/alvaaroms).
 
-### 🛍️ [ORVO](https://github.com/PabloUbieto/orvo) · *In development*
+### 🛍️ [NODEX](https://github.com/PabloUbieto/nodex) · *In development*
 
-Fictional online store of premium tech accessories for workspaces, with its own brand identity and a minimalist design. Web Interface Design coursework for the DAW programme, done in a pair with [Álvaro López](https://github.com/alvaaroms).
+Fictional online store of premium tech accessories for workspaces, with its own brand identity and a minimalist design. Built together with [Álvaro López](https://github.com/alvaaroms).
+
+### 🧩 [claude-code-skills](https://github.com/PabloUbieto/claude-code-skills)
+
+Collection of skills for Claude Code, organized into `third-party/` (from third parties) and `custom/` (my own).
 
 ## 🏢 Organizations
 
