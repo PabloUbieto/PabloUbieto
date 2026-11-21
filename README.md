@@ -6,7 +6,7 @@
 
 **Desarrollador Junior · Java · C#/.NET · Angular · Android**
 
-📍 Huesca / Zaragoza, España
+Huesca / Zaragoza, España
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo_Ubieto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-ubieto-foncillas)
 [![Email](https://img.shields.io/badge/Email-pubieto4@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pubieto4@gmail.com)
@@ -15,31 +15,31 @@
 
 ---
 
-## 👋 Sobre mí
+## Sobre mí
 
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente cursando Desarrollo de Aplicaciones Web (DAW) para completar el doble grado.
 
 Tengo experiencia en backend con C#/.NET en un entorno profesional, frontend con Angular y aplicaciones Android con Java y Spring Boot. Me interesan la ciberseguridad y la arquitectura de sistemas con IA.
 
-## 🚀 Proyectos
+## Proyectos
 
-### 🧾 [GroubTab](https://github.com/PabloUbieto/groubtab) · *En desarrollo*
+### [GroubTab](https://github.com/PabloUbieto/groubtab) · *En desarrollo*
 
 Plataforma web para la gestión inteligente de gastos compartidos con lectura automática de tickets mediante IA. Proyecto Final de Ciclo de DAW, desarrollado junto a [Álvaro López](https://github.com/alvaaroms).
 
-### 🛍️ [NODEX](https://github.com/PabloUbieto/nodex) · *En desarrollo*
+### [NODEX](https://github.com/PabloUbieto/nodex) · *En desarrollo*
 
 Tienda online ficticia de accesorios tecnológicos premium para espacios de trabajo, con identidad de marca propia y diseño minimalista. Desarrollada junto a [Álvaro López](https://github.com/alvaaroms).
 
-### 🧩 [claude-code-skills](https://github.com/PabloUbieto/claude-code-skills)
+### [claude-code-skills](https://github.com/PabloUbieto/claude-code-skills)
 
 Colección de skills para Claude Code, organizadas en `third-party/` (de terceros) y `custom/` (propias).
 
-## 🏢 Organizaciones
+## Organizaciones
 
 Creé [PabloUbieto-DAW](https://github.com/PabloUbieto-DAW) para mantener organizados los laboratorios, auditorías y trabajos de 2º DAW (Centro San Valero), con ramas, Pull Requests y estándares comunes entre repositorios.
 
-## 💼 Experiencia
+## Experiencia
 
 **Desarrollador .NET y Angular (prácticas FP Dual)** — Memorándum Tecnología · ene – abr 2026
 
@@ -48,13 +48,13 @@ Creé [PabloUbieto-DAW](https://github.com/PabloUbieto-DAW) para mantener organi
 - **Frontend (Angular):** lógica de visibilidad y habilitación de formularios con Reactive Forms.
 - **Análisis funcional:** diagramas de dependencias de las secciones principales, usados por el equipo como referencia.
 
-## 🎓 Formación
+## Formación
 
 - **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** — Centro San Valero · 2026 – actualidad
 - **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** — Océano Atlántico, Zaragoza · 2024 – 2026 · Nota media 8,88
 - **Bachillerato de Humanidades y Ciencias Sociales** — Santa Rosa, Huesca · 2022 – 2024
 
-## 🛠️ Stack
+## Stack
 
 <table>
 <tr><th align="left">Lenguajes</th><td>Java · C# · TypeScript · JavaScript · SQL · HTML · CSS</td></tr>
@@ -64,7 +64,7 @@ Creé [PabloUbieto-DAW](https://github.com/PabloUbieto-DAW) para mantener organi
 <tr><th align="left">Herramientas</th><td>Git · GitHub · Docker · Visual Studio · VS Code · Android Studio</td></tr>
 </table>
 
-## ⚙️ Cómo trabajo
+## Cómo trabajo
 
 - Todo cambio pasa por **Pull Request**, con autorrevisión antes de fusionar.
 - Commits atómicos con **Conventional Commits** en inglés.
