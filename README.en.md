@@ -23,7 +23,7 @@ I have professional experience in backend development with C#/.NET, frontend dev
 
 ## 🚀 Projects
 
-### 🧾 [Grupay](https://github.com/PabloUbieto/grupay) · *In development*
+### 🧾 [GroubTab](https://github.com/PabloUbieto/groubtab) · *In development*
 
 Web platform for smart shared-expense management with automatic receipt scanning using AI. Final Year Project of the DAW programme, built together with [Álvaro López](https://github.com/alvaaroms).
 
