@@ -23,7 +23,7 @@ Tengo experiencia en backend con C#/.NET en un entorno profesional, frontend con
 
 ## 🚀 Proyectos
 
-### 🧾 [Grupay](https://github.com/PabloUbieto/grupay) · *En desarrollo*
+### 🧾 [GroubTab](https://github.com/PabloUbieto/groubtab) · *En desarrollo*
 
 Plataforma web para la gestión inteligente de gastos compartidos con lectura automática de tickets mediante IA. Proyecto Final de Ciclo de DAW, desarrollado junto a [Álvaro López](https://github.com/alvaaroms).
 
